@@ -64,4 +64,9 @@ crontab -l
 ```
 
 ## Proof Of Concept
-![poc](https://github.com/user-attachments/assets/f1b0acab-8bac-43a0-9160-1141e53286da)
+
+![py-yt](https://github.com/user-attachments/assets/159152ab-ae84-425c-af58-b7ccceeb95aa)
+
+![yt-notified](https://github.com/user-attachments/assets/8402d992-af40-4911-a5de-6d4fae6329da)
+
+
